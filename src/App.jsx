@@ -156,9 +156,9 @@ const BIBLE_STRUCTURE = [
 // 學習標籤顏色與圖示
 const ACTIVITIES = {
   devotional: { id: 'devotional', label: '靈修讀經', color: '#38bdf8', icon: Sparkles },
-  worship: { id: 'worship', label: '主日崇拜', color: '#eab308', icon: Church },
-  theology: { id: 'theology', label: '神學課程', color: '#a855f7', icon: GraduationCap },
-  fellowship: { id: 'fellowship', label: '團契查經', color: '#f97316', icon: Users },
+  worship: { id: 'worship', label: '主日崇拜', color: '#ffd350', icon: Church },
+  theology: { id: 'theology', label: '神學課程', color: '#9b3bf4', icon: GraduationCap },
+  fellowship: { id: 'fellowship', label: '團契查經', color: '#16f916', icon: Users },
   personal: { id: 'personal', label: '個人研經', color: '#f8fafc', icon: BookOpen },
   eraser: { id: 'eraser', label: '橡皮擦', color: '#ef4444', icon: Eraser }
 };
